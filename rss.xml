@@ -4,7 +4,7 @@
         <description><![CDATA[Investor Residence and Citizenship Programs]]></description>
         <link>https://thegrid.ai/absolute-citizen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 23:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 23:17:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/absolute-citizen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cyprus]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/absolute-citizen/cyprus/index.html</link>
             <guid isPermaLink="false">2cd9e396-a64d-4661-b59f-a2b0c191b8bd</guid>
             <pubDate>Thu, 05 May 2016 23:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/595470fc-72a8-48a3-a300-b55fd079da69.jpg">]]></description>
+            <link>https://thegrid.ai/absolute-citizen/the-malta-individual-investor-programme-continues-to-attract/index.html</link>
+            <guid isPermaLink="false">8521a9c0-52a7-42da-bd40-f75e259d0cfa</guid>
+            <pubDate>Thu, 05 May 2016 23:17:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
